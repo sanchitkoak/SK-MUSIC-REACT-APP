@@ -9,7 +9,7 @@ const Sidebar = () => {
         <div className='sidebar'>
             <Link className='app-logo' href='/' >
                 <GiMusicSpell />
-                <span>SK Music</span>
+                <span>Sanchit Music</span>
             </Link>
 
             <div>
