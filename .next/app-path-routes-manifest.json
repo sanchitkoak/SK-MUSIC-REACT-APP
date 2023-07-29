@@ -1,0 +1,18 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/favorites/page": "/favorites",
+  "/radio/page": "/radio",
+  "/top_tracks/page": "/top_tracks",
+  "/top_artists/page": "/top_artists",
+  "/album/[id]/page": "/album/[id]",
+  "/api/search/route": "/api/search",
+  "/artist/[id]/page": "/artist/[id]",
+  "/playlist/[id]/page": "/playlist/[id]",
+  "/radio/[id]/page": "/radio/[id]",
+  "/api/album/[id]/route": "/api/album/[id]",
+  "/api/artist/[id]/route": "/api/artist/[id]",
+  "/api/playlist/[id]/route": "/api/playlist/[id]",
+  "/api/radio/[id]/route": "/api/radio/[id]",
+  "/api/track/[id]/route": "/api/track/[id]"
+}
